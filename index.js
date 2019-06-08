@@ -14,7 +14,7 @@ const data = [
         "id": 283124,
         "latitude": 18.605289,
         "longitude": 73.719196,
-        "name": "Infosys"
+        "name": "Infosys Park"
     },
     {
         "id": 283090,
